@@ -79,7 +79,7 @@ Can be used as a mini-game project for Python learners.
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/cf9b10f8-fddb-4280-bd2b-ac230c87af55" />
 
 # 🔹 Future Enhancements
 
