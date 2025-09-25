@@ -43,8 +43,7 @@ User input & validation
 
 Clone this repository:
 
-git clone https://github.com/your-username/number-guessing-game.git
-
+git clone https://github.com/meysiii/NUMBER-GUESSING-GAME
 
 # Navigate to the project folder:
 
